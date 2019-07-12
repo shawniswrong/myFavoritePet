@@ -1,0 +1,47 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+
+.inline-block{
+  display: inline-block;
+  padding: 15px;
+}
+
+.left {
+  height: 500px;
+  display: inline-block;
+  background-color: lightblue;
+  width: 27%;
+  vertical-align: top;
+  padding: 10px;
+}
+
+.right {
+  height: 500px;
+  display: inline-block;
+  background-color: lightgreen;
+  width: 68%;
+  vertical-align: top;
+  padding: 10px;
+}
+
+.top {
+  height: auto;
+  display: inline-block;
+  background-color: lightblue;
+  width: 100%;
+  vertical-align: top;
+  text-align: center;
+}
+
+.cavatsu {
+  float: left;
+  padding-right: 15px;
+}
+
+/* target the class of inline-block below */
+
+/* target the class of .left below */
+
+/* target the class of .right below */
